@@ -3,6 +3,11 @@
     "displayName": "Jayanth's Devil Dark Theme",
     "description": "Absolute crisp dark blue theme for night owls",
     "version": "0.0.1",
+    "publisher": "JayanthSrinivasan",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/Jayanth-Srinivasan/Devil-Dark-VScode-Theme"
+    },
     "engines": {
         "vscode": "^1.58.0"
     },
@@ -12,6 +17,14 @@
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "Jayanth Srinivasan",
+        "Devil Dark",
+        "devil dark",
+        "jayanth theme"
     ],
     "contributes": {
         "themes": [
