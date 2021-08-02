@@ -1,0 +1,25 @@
+{
+    "name": "jayanth-s-devil-dark-theme",
+    "displayName": "Jayanth's Devil Dark Theme",
+    "description": "Absolute crisp dark blue theme for night owls",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "icon":"icon.png",
+    "author": {
+        "name":"Jayanth Srinivasan"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Jayanth's Devil Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Jayanth's Devil Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
